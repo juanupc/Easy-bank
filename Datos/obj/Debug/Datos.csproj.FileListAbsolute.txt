@@ -1,0 +1,36 @@
+C:\Users\juana\Downloads\Banco-master\Datos\bin\Debug\Datos.dll
+C:\Users\juana\Downloads\Banco-master\Datos\bin\Debug\Datos.pdb
+C:\Users\juana\Downloads\Banco-master\Datos\bin\Debug\Entidad.dll
+C:\Users\juana\Downloads\Banco-master\Datos\bin\Debug\Entidad.pdb
+C:\Users\juana\Downloads\Banco-master\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\juana\Downloads\Banco-master\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\juana\Downloads\Banco-master\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\juana\Downloads\Banco-master\Datos\obj\Debug\Datos.dll
+C:\Users\juana\Downloads\Banco-master\Datos\obj\Debug\Datos.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Datos\bin\Debug\Datos.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Datos\bin\Debug\Datos.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Datos\bin\Debug\Entidad.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Datos\bin\Debug\Entidad.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Datos\obj\Debug\Datos.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Datos\obj\Debug\Datos.pdb
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Datos\bin\Debug\Datos.dll
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Datos\bin\Debug\Datos.pdb
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Datos\bin\Debug\Entidad.dll
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Datos\bin\Debug\Entidad.pdb
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Datos\obj\Debug\Datos.dll
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Datos\obj\Debug\Datos.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Datos\bin\Debug\Datos.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Datos\bin\Debug\Datos.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Datos\bin\Debug\Entidad.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Datos\bin\Debug\Entidad.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Datos\obj\Debug\Datos.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Datos\obj\Debug\Datos.pdb

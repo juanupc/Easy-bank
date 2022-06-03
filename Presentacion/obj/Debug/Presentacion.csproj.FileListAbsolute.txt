@@ -1,0 +1,30 @@
+C:\Users\juana\Downloads\Banco-master\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\juana\Downloads\Banco-master\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\juana\Downloads\Banco-master\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\juana\Downloads\Banco-master\Presentacion\bin\Debug\Entidad.dll
+C:\Users\juana\Downloads\Banco-master\Presentacion\bin\Debug\Logica.dll
+C:\Users\juana\Downloads\Banco-master\Presentacion\bin\Debug\Datos.dll
+C:\Users\juana\Downloads\Banco-master\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\juana\Downloads\Banco-master\Presentacion\bin\Debug\Logica.pdb
+C:\Users\juana\Downloads\Banco-master\Presentacion\bin\Debug\Datos.pdb
+C:\Users\juana\Downloads\Banco-master\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\juana\Downloads\Banco-master\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\juana\Downloads\Banco-master\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\juana\Downloads\Banco-master\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\juana\Downloads\Banco-master\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\juana\Downloads\Banco-master\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Presentacion\bin\Debug\Entidad.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Presentacion\bin\Debug\Logica.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Presentacion\bin\Debug\Datos.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Presentacion\bin\Debug\Logica.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Presentacion\bin\Debug\Datos.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Presentacion\obj\Debug\Presentacion.pdb

@@ -1,0 +1,44 @@
+C:\Users\juana\Downloads\Banco-master\Logica\bin\Debug\Logica.dll
+C:\Users\juana\Downloads\Banco-master\Logica\bin\Debug\Logica.pdb
+C:\Users\juana\Downloads\Banco-master\Logica\bin\Debug\Datos.dll
+C:\Users\juana\Downloads\Banco-master\Logica\bin\Debug\Entidad.dll
+C:\Users\juana\Downloads\Banco-master\Logica\bin\Debug\Datos.pdb
+C:\Users\juana\Downloads\Banco-master\Logica\bin\Debug\Entidad.pdb
+C:\Users\juana\Downloads\Banco-master\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\juana\Downloads\Banco-master\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\juana\Downloads\Banco-master\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\juana\Downloads\Banco-master\Logica\obj\Debug\Logica.dll
+C:\Users\juana\Downloads\Banco-master\Logica\obj\Debug\Logica.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Logica\bin\Debug\Logica.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Logica\bin\Debug\Logica.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Logica\bin\Debug\Datos.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Logica\bin\Debug\Entidad.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Logica\bin\Debug\Datos.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Logica\bin\Debug\Entidad.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Logica\obj\Debug\Logica.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\Nueva carpeta\Banco-master\Logica\obj\Debug\Logica.pdb
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Logica\bin\Debug\Logica.dll
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Logica\bin\Debug\Logica.pdb
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Logica\bin\Debug\Datos.dll
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Logica\bin\Debug\Entidad.dll
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Logica\bin\Debug\Datos.pdb
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Logica\bin\Debug\Entidad.pdb
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Logica\obj\Debug\Logica.dll
+C:\Users\ESTUDIANTE\Desktop\Banco-master\Logica\obj\Debug\Logica.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Logica\bin\Debug\Logica.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Logica\bin\Debug\Logica.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Logica\bin\Debug\Datos.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Logica\bin\Debug\Entidad.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Logica\bin\Debug\Datos.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Logica\bin\Debug\Entidad.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Logica\obj\Debug\Logica.dll
+C:\Users\FABIO BAQUERO DAZA\Downloads\baco ultimo\Banco-master\Logica\obj\Debug\Logica.pdb
